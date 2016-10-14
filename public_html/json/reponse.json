@@ -1,0 +1,168 @@
+
+
+{
+    "reponse": [
+        {
+            "id": 1,
+            "caseId": "00",
+            "couleur": "???"
+        },
+        {
+            "id": 2,
+            "caseId": "01",
+            "couleur": "???"
+        },
+        {
+            "id": 3,
+            "caseId": "02",
+            "couleur": "???"
+        },
+        {
+            "id": 4,
+            "caseId": "03",
+            "couleur": "???"
+        },
+        {
+            "id": 5,
+            "caseId": "04",
+            "couleur": "???"
+        },
+        {
+            "id": 6,
+            "caseId": "05",
+            "couleur": "???"
+        },
+        {
+            "id": 7,
+            "caseId": "10",
+            "couleur": "???"
+        },
+        {
+            "id": 8,
+            "caseId": "11",
+            "couleur": "???"
+        },
+        {
+            "id": 9,
+            "caseId": "12",
+            "couleur": "???"
+        },
+        {
+            "id": 10,
+            "caseId": "13",
+            "couleur": "???"
+        },
+        {
+            "id": 11,
+            "caseId": "14",
+            "couleur": "???"
+        },
+        {
+            "id": 12,
+            "caseId": "15",
+            "couleur": "???"
+        },
+        {
+            "id": 13,
+            "caseId": "20",
+            "couleur": "???"
+        },
+        {
+            "id": 14,
+            "caseId": "21",
+            "couleur": "???"
+        },
+        {
+            "id": 15,
+            "caseId": "22",
+            "couleur": "???"
+        },
+        {
+            "id": 16,
+            "caseId": "23",
+            "couleur": "???"
+        },
+        {
+            "id": 17,
+            "caseId": "24",
+            "couleur": "???"
+        },
+        {
+            "id": 18,
+            "caseId": "25",
+            "couleur": "???"
+        }, {
+            "id": 19,
+            "caseId": "30",
+            "couleur": "???"
+        }, {
+            "id": 20,
+            "caseId": "31",
+            "couleur": "???"
+        }, {
+            "id": 21,
+            "caseId": "32",
+            "couleur": "???"
+        }, {
+            "id": 22,
+            "caseId": "33",
+            "couleur": "???"
+        }, {
+            "id": 23,
+            "caseId": "34",
+            "couleur": "???"
+        }, {
+            "id": 24,
+            "caseId": "35",
+            "couleur": "???"
+        }, {
+            "id": 25,
+            "caseId": "40",
+            "couleur": "???"
+        }, {
+            "id": 26,
+            "caseId": "41",
+            "couleur": "???"
+        }, {
+            "id": 27,
+            "caseId": "42",
+            "couleur": "???"
+        }, {
+            "id": 28,
+            "caseId": "43",
+            "couleur": "???"
+        }, {
+            "id": 29,
+            "caseId": "44",
+            "couleur": "???"
+        }, {
+            "id": 30,
+            "caseId": "45",
+            "couleur": "???"
+        }, {
+            "id": 31,
+            "caseId": "50",
+            "couleur": "???"
+        }, {
+            "id": 32,
+            "caseId": "51",
+            "couleur": "???"
+        }, {
+            "id": 33,
+            "caseId": "52",
+            "couleur": "???"
+        }, {
+            "id": 34,
+            "caseId": "53",
+            "couleur": "???"
+        }, {
+            "id": 35,
+            "caseId": "54",
+            "couleur": "???"
+        }, {
+            "id": 36,
+            "caseId": "55",
+            "couleur": "???"
+        }
+    ]
+}
